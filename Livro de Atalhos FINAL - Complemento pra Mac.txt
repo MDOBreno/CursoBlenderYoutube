@@ -1,0 +1,22 @@
+
+[Navegar pelo mapa]:
+-> Shift + Mousewheel
+
+[Definir o centro de rotação em um objeto]:
+-> "ClickEmUmObj"
+	-> "."(teclado numerico)
+	 ou
+	-> "Fn"(function) + "."(teclado normal)
+
+[Navegar em torno de um objeto]:
+-> "ClickEmUmObj"
+	-> "`"(crase)
+		-> "EscolhaUmaOpção"
+
+[selecionar x% arrestas/vertices/faces aleatoriamente]:
+-> "ClickEmUmObj"
+	-> "Tab"
+		-> "Select"
+			-> "Select Randon"
+				-> MenuInferiorEsquerdo: Ratio(percentual)
+
